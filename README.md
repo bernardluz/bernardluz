@@ -40,6 +40,5 @@
 
 ---
 
-📩 **Vamos conversar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/bernard-luz-07a85268/) ou entre em contato para colaborações e projetos! 🚀  
-
-
+## 📩 Vamos Conversar?
+Me encontre no [LinkedIn](https://www.linkedin.com/in/bernard-luz-07a85268/) ou entre em contato para colaborações e projetos! 🚀  
