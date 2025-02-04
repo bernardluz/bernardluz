@@ -13,6 +13,30 @@
 
 ---
 
+## 📊 Contribuições por Ano
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark)
+
+---
+
+## 🌐 Estatísticas de Linguagens
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)
+
+---
+
+## 🏆 Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub)
+
+---
+
+## 📈 Visitas no Perfil
+
+![Visitas no Perfil](https://komarev.com/ghpvc/?username=bernardluz&color=blue)
+
+---
+
 ## 🛠 Tecnologias & Ferramentas  
 
 ### **🔹 Backend**  
