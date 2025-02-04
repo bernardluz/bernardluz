@@ -23,7 +23,7 @@
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardluz)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
