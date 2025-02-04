@@ -7,6 +7,7 @@
 
 ## 📈 Minhas Estatísticas no GitHub  
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardluz&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardluz&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark)
