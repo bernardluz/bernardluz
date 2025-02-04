@@ -9,26 +9,25 @@
 
 ![bernardluz's Stats](https://github-readme-stats.vercel.app/api?username=bernardluz&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 ![bernardluz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bernardluz&repo=github-readme-stats)](https://github.com/bernardluz/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
 ## 📊 Contribuições por Ano
 
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🌐 Estatísticas de Linguagens
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🏆 Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub&include_all_commits=true&count_private=true)
 
 ---
 
