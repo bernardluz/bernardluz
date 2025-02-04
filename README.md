@@ -15,19 +15,19 @@
 
 ## 📊 Contribuições por Ano
 
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark)
 
 ---
 
 ## 🌐 Estatísticas de Linguagens
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark&include_all_commits=true&count_private=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub&include_all_commits=true&count_private=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub)
 
 ---
 
