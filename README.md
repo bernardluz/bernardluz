@@ -8,8 +8,7 @@
 ## 📈 Minhas Estatísticas no GitHub  
 
 ![bernardluz's Stats](https://github-readme-stats.vercel.app/api?username=bernardluz&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardluz&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=bernardluz&show_icons=true&theme=dark)  
+![bernardluz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&theme=tokyonight&include_all_commits=true&show_icons=true&hide_border=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark)
 
