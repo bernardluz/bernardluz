@@ -13,20 +13,6 @@
 
 ---
 
-## 📊 Contribuições por Ano
-
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=bernardluz&theme=dark)
-
----
-
-## 🌐 Estatísticas de Linguagens
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardluz&layout=compact&theme=dark)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardluz)]
-
----
-
 ## 🏆 Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub)
