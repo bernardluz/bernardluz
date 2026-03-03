@@ -1,21 +1,14 @@
-# 👋 Olá! Eu sou o Bernard
+## 👋 Bernard Luz
 
-🚀 **Empreendedor | Desenvolvedor Java & Flutter | Especialista em Fintechs**  
-💳 CEO da **Simpbank** | Soluções Financeiras e Tecnologia de Pagamentos  
+Construo sistemas financeiros do zero — do backend ao app mobile.
+
+Sou desenvolvedor full stack especializado em fintechs, com foco em crédito, pagamentos digitais e inclusão financeira. Uso IA no desenvolvimento (Claude Code, Gemini CLI) para entregar projetos complexos com velocidade.
 
 ---
 
-## 📈 Minhas Estatísticas no GitHub  
+## 📈 GitHub Stats
 
-![bernardluz's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bernardluz&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true)
-![bernardluz's Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bernardluz&theme=tokyonight&hide_border=true&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark)
-
----
-
-## 🏆 Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bernardluz&theme=darkhub&no-frame=true)
 
 ---
 
@@ -25,32 +18,40 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas  
+## 🛠 Stack
 
-### 🔹 Backend  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)  
+### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
-### 🔹 Frontend & Mobile  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 
-### 🔹 Banco de Dados  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### 🔹 Infraestrutura & Cloud  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+### Infraestrutura
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-## 📚 Sobre Mim  
-💼 **Desenvolvedor Full Stack** com experiência em **Java, Flutter e Spring Boot**, focado em aplicações robustas e escaláveis.  
-💡 Forte atuação em **arquitetura de sistemas, microsserviços, bancos de dados e soluções financeiras**.  
-⚡ Apaixonado por inovação no ecossistema de **fintechs** e por resolver problemas reais com tecnologia.
+### IA no Desenvolvimento
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
-## 📩 Vamos Conversar?
-Me encontre no [LinkedIn](https://www.linkedin.com/in/bernard-luz-07a85268/) ou entre em contato para colaborações e projetos 🚀
+## O que já construí
+
+- Ecossistema fintech com módulos de FGTS, crédito, conta digital, POS e câmbio
+- Arquitetura multi-cloud com deploy automatizado via Docker e GitHub Actions
+- Pipeline de conteúdo automatizado com IA (vídeo, roteiro, narração)
+- Integrações com bancos liquidantes
+
+---
+
+## 📩 Contato
+
+[LinkedIn](https://www.linkedin.com/in/bernard-luz-07a85268/)
