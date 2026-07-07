@@ -1,6 +1,6 @@
 ## 👋 Bernard Luz
 Construo sistemas financeiros do zero — do backend ao app mobile.
-Sou desenvolvedor full stack especializado em fintechs, com foco em crédito, pagamentos digitais e inclusão financeira. Uso IA no desenvolvimento (Claude Code, Gemini CLI) para entregar projetos complexos com velocidade.
+Sou desenvolvedor full stack especializado em fintechs, com foco em crédito, pagamentos digitais e inclusão financeira. Uso IA no desenvolvimento (Codex e Claude Code) para entregar projetos complexos com velocidade.
 ---
 ## 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bernardluz&theme=dark)
