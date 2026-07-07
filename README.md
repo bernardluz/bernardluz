@@ -29,10 +29,6 @@ Sou desenvolvedor full stack especializado em fintechs, com foco em crédito, pa
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-### IA no Desenvolvimento
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=flat&logo=google&logoColor=white)
 ---
 ## O que já construí
 - Ecossistema fintech com módulos de FGTS, crédito, conta digital, POS e câmbio
